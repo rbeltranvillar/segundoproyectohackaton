@@ -1,0 +1,21 @@
+
+/*body*/
+body {max-width: 828px; 
+max-height: 3824px;}
+
+/*header*/
+  header {max-width: 828px; 
+  height: 471px; 
+    }
+  .cabecera1 { display: flex;
+  width: 100%; 
+
+    ;   
+     }  
+
+  .cabecera1 div {width: 100px;
+    }
+  .cabecera1 div :nth-child(1) {  justify-content: flex-start; }
+
+
+
